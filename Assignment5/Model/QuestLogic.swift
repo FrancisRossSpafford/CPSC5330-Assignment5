@@ -63,7 +63,7 @@ struct QuestLogic {
         Choice(
             text_in: "You cautiously approach and discover an ancient chest filled with treasure! You are victorious!",
             o_one: "Restart",
-            o_two: "Exit",
+            o_two: "Begin Anew",
             o_one_result: 0, // back to start
             o_two_result: 0), // end of the game
         
@@ -71,7 +71,7 @@ struct QuestLogic {
         Choice(
             text_in: "You make a wrong move and fall into a hidden trap! This is the end of your adventure.",
             o_one: "Restart",
-            o_two: "Exit",
+            o_two: "Begin Anew",
             o_one_result: 0, // back to start
             o_two_result: 0)  // end of the game
     ]
