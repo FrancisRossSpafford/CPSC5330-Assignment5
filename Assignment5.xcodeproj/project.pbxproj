@@ -29,6 +29,11 @@
 			path = Assignment5;
 			sourceTree = "<group>";
 		};
+		877477FF2D628D1200E571B4 /* View */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = View;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +52,7 @@
 			children = (
 				877477E72D628CA900E571B4 /* Assignment5 */,
 				877477E62D628CA900E571B4 /* Products */,
+				877477FF2D628D1200E571B4 /* View */,
 			);
 			sourceTree = "<group>";
 		};
@@ -75,6 +81,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				877477E72D628CA900E571B4 /* Assignment5 */,
+				877477FF2D628D1200E571B4 /* View */,
 			);
 			name = Assignment5;
 			packageProductDependencies = (
